@@ -145,4 +145,4 @@ No redistribution or use in commercial products is allowed without explicit perm
 
 ## 🧑‍💻 Author
 
-- **Email:** Anksilae@gmail.com
+- **Email:** neemanaviv@gmail.com
