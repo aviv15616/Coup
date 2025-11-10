@@ -1,9 +1,4 @@
 # Coup - Advanced C++ Game Simulation
-
-### Author: Anksilae@gmail.com  
-### Course: Software Programming – C++  
-### Project: Ex3 – *Coup* Game Implementation with Roles, GUI and Full Test Coverage  
-
 ---
 
 ## 📌 Project Description
